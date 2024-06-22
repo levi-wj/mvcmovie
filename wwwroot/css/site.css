@@ -1,0 +1,65 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+    background-color: #242424;
+    color: white;
+}
+
+a {
+    color: lightblue;
+}
+
+a:hover {
+    color: white;
+}
+
+input, select, .form-control {
+    background-color: transparent;
+    border: 1px solid gray;
+    border-radius: 5px;
+    color: white;
+    color-scheme: dark;
+    padding: .25em;
+}
+
+option {
+    color: black;
+}
+
+table {
+    color: white !important;
+}
+
+nav {
+    border-bottom: 1px solid gray !important;
+}
+
+footer {
+    border-top: 1px solid gray !important;
+}
+
+.table > :not(caption) > * > * {
+    border-bottom-color: gray;
+}
+
+.table > :not(:last-child) > :last-child > * {
+    border-color: gray;
+}

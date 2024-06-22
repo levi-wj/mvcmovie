@@ -1,0 +1,289 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leviw\\Documents\\school\\dotnet\\MvcMovie\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01F50579-9BBE-4687-A939-F88095CB4A79}|MvcMovie.csproj|c:\\users\\leviw\\documents\\school\\dotnet\\mvcmovie\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01F50579-9BBE-4687-A939-F88095CB4A79}|MvcMovie.csproj|solutionrelative:views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01F50579-9BBE-4687-A939-F88095CB4A79}|MvcMovie.csproj|c:\\users\\leviw\\documents\\school\\dotnet\\mvcmovie\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{01F50579-9BBE-4687-A939-F88095CB4A79}|MvcMovie.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01F50579-9BBE-4687-A939-F88095CB4A79}|MvcMovie.csproj|c:\\users\\leviw\\documents\\school\\dotnet\\mvcmovie\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01F50579-9BBE-4687-A939-F88095CB4A79}|MvcMovie.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01F50579-9BBE-4687-A939-F88095CB4A79}|MvcMovie.csproj|c:\\users\\leviw\\documents\\school\\dotnet\\mvcmovie\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01F50579-9BBE-4687-A939-F88095CB4A79}|MvcMovie.csproj|solutionrelative:controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01F50579-9BBE-4687-A939-F88095CB4A79}|MvcMovie.csproj|c:\\users\\leviw\\documents\\school\\dotnet\\mvcmovie\\migrations\\20240622200311_image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01F50579-9BBE-4687-A939-F88095CB4A79}|MvcMovie.csproj|solutionrelative:migrations\\20240622200311_image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01F50579-9BBE-4687-A939-F88095CB4A79}|MvcMovie.csproj|c:\\users\\leviw\\documents\\school\\dotnet\\mvcmovie\\views\\movies\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01F50579-9BBE-4687-A939-F88095CB4A79}|MvcMovie.csproj|solutionrelative:views\\movies\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01F50579-9BBE-4687-A939-F88095CB4A79}|MvcMovie.csproj|c:\\users\\leviw\\documents\\school\\dotnet\\mvcmovie\\views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01F50579-9BBE-4687-A939-F88095CB4A79}|MvcMovie.csproj|solutionrelative:views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01F50579-9BBE-4687-A939-F88095CB4A79}|MvcMovie.csproj|c:\\users\\leviw\\documents\\school\\dotnet\\mvcmovie\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01F50579-9BBE-4687-A939-F88095CB4A79}|MvcMovie.csproj|solutionrelative:views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01F50579-9BBE-4687-A939-F88095CB4A79}|MvcMovie.csproj|c:\\users\\leviw\\documents\\school\\dotnet\\mvcmovie\\views\\movies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01F50579-9BBE-4687-A939-F88095CB4A79}|MvcMovie.csproj|solutionrelative:views\\movies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01F50579-9BBE-4687-A939-F88095CB4A79}|MvcMovie.csproj|c:\\users\\leviw\\documents\\school\\dotnet\\mvcmovie\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01F50579-9BBE-4687-A939-F88095CB4A79}|MvcMovie.csproj|solutionrelative:models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01F50579-9BBE-4687-A939-F88095CB4A79}|MvcMovie.csproj|c:\\users\\leviw\\documents\\school\\dotnet\\mvcmovie\\models\\moviegenreviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01F50579-9BBE-4687-A939-F88095CB4A79}|MvcMovie.csproj|solutionrelative:models\\moviegenreviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01F50579-9BBE-4687-A939-F88095CB4A79}|MvcMovie.csproj|c:\\users\\leviw\\documents\\school\\dotnet\\mvcmovie\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01F50579-9BBE-4687-A939-F88095CB4A79}|MvcMovie.csproj|solutionrelative:controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01F50579-9BBE-4687-A939-F88095CB4A79}|MvcMovie.csproj|c:\\users\\leviw\\documents\\school\\dotnet\\mvcmovie\\views\\helloworld\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01F50579-9BBE-4687-A939-F88095CB4A79}|MvcMovie.csproj|solutionrelative:views\\helloworld\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01F50579-9BBE-4687-A939-F88095CB4A79}|MvcMovie.csproj|c:\\users\\leviw\\documents\\school\\dotnet\\mvcmovie\\views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01F50579-9BBE-4687-A939-F88095CB4A79}|MvcMovie.csproj|solutionrelative:views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01F50579-9BBE-4687-A939-F88095CB4A79}|MvcMovie.csproj|c:\\users\\leviw\\documents\\school\\dotnet\\mvcmovie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01F50579-9BBE-4687-A939-F88095CB4A79}|MvcMovie.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01F50579-9BBE-4687-A939-F88095CB4A79}|MvcMovie.csproj|c:\\users\\leviw\\documents\\school\\dotnet\\mvcmovie\\migrations\\20240622043929_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01F50579-9BBE-4687-A939-F88095CB4A79}|MvcMovie.csproj|solutionrelative:migrations\\20240622043929_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\leviw\\Documents\\school\\dotnet\\MvcMovie\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\leviw\\Documents\\school\\dotnet\\MvcMovie\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAABAAAAAAAAAAAAAIwCQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-22T20:17:13.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\leviw\\Documents\\school\\dotnet\\MvcMovie\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\leviw\\Documents\\school\\dotnet\\MvcMovie\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "Controllers\\MoviesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T04:38:20.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\leviw\\Documents\\school\\dotnet\\MvcMovie\\Views\\Movies\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movies\\Index.cshtml",
+              "ToolTip": "C:\\Users\\leviw\\Documents\\school\\dotnet\\MvcMovie\\Views\\Movies\\Index.cshtml",
+              "RelativeToolTip": "Views\\Movies\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T05:04:32.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\leviw\\Documents\\school\\dotnet\\MvcMovie\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\leviw\\Documents\\school\\dotnet\\MvcMovie\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T04:31:58.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240622200311_image.cs",
+              "DocumentMoniker": "C:\\Users\\leviw\\Documents\\school\\dotnet\\MvcMovie\\Migrations\\20240622200311_image.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240622200311_image.cs",
+              "ToolTip": "C:\\Users\\leviw\\Documents\\school\\dotnet\\MvcMovie\\Migrations\\20240622200311_image.cs",
+              "RelativeToolTip": "Migrations\\20240622200311_image.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T20:03:12.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\leviw\\Documents\\school\\dotnet\\MvcMovie\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\leviw\\Documents\\school\\dotnet\\MvcMovie\\Models\\Movie.cs",
+              "RelativeToolTip": "Models\\Movie.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwCIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T04:36:34.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\leviw\\Documents\\school\\dotnet\\MvcMovie\\Views\\Movies\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movies\\Details.cshtml",
+              "ToolTip": "C:\\Users\\leviw\\Documents\\school\\dotnet\\MvcMovie\\Views\\Movies\\Details.cshtml",
+              "RelativeToolTip": "Views\\Movies\\Details.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T05:19:49.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\leviw\\Documents\\school\\dotnet\\MvcMovie\\Views\\Movies\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movies\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\leviw\\Documents\\school\\dotnet\\MvcMovie\\Views\\Movies\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Movies\\Delete.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAgwBcAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T05:19:23.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\leviw\\Documents\\school\\dotnet\\MvcMovie\\Views\\Movies\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movies\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\leviw\\Documents\\school\\dotnet\\MvcMovie\\Views\\Movies\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Movies\\Edit.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T05:19:17.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\leviw\\Documents\\school\\dotnet\\MvcMovie\\Views\\Movies\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movies\\Create.cshtml",
+              "ToolTip": "C:\\Users\\leviw\\Documents\\school\\dotnet\\MvcMovie\\Views\\Movies\\Create.cshtml",
+              "RelativeToolTip": "Views\\Movies\\Create.cshtml",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T05:18:49.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MovieGenreViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\leviw\\Documents\\school\\dotnet\\MvcMovie\\Models\\MovieGenreViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\MovieGenreViewModel.cs",
+              "ToolTip": "C:\\Users\\leviw\\Documents\\school\\dotnet\\MvcMovie\\Models\\MovieGenreViewModel.cs",
+              "RelativeToolTip": "Models\\MovieGenreViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T05:13:10.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240622043929_init.cs",
+              "DocumentMoniker": "C:\\Users\\leviw\\Documents\\school\\dotnet\\MvcMovie\\Migrations\\20240622043929_init.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240622043929_init.cs",
+              "ToolTip": "C:\\Users\\leviw\\Documents\\school\\dotnet\\MvcMovie\\Migrations\\20240622043929_init.cs",
+              "RelativeToolTip": "Migrations\\20240622043929_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T04:39:30.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Welcome.cshtml",
+              "DocumentMoniker": "C:\\Users\\leviw\\Documents\\school\\dotnet\\MvcMovie\\Views\\HelloWorld\\Welcome.cshtml",
+              "RelativeDocumentMoniker": "Views\\HelloWorld\\Welcome.cshtml",
+              "ToolTip": "C:\\Users\\leviw\\Documents\\school\\dotnet\\MvcMovie\\Views\\HelloWorld\\Welcome.cshtml",
+              "RelativeToolTip": "Views\\HelloWorld\\Welcome.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T04:34:58.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\leviw\\Documents\\school\\dotnet\\MvcMovie\\Views\\HelloWorld\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\HelloWorld\\Index.cshtml",
+              "ToolTip": "C:\\Users\\leviw\\Documents\\school\\dotnet\\MvcMovie\\Views\\HelloWorld\\Index.cshtml",
+              "RelativeToolTip": "Views\\HelloWorld\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T04:30:59.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HelloWorldController.cs",
+              "DocumentMoniker": "C:\\Users\\leviw\\Documents\\school\\dotnet\\MvcMovie\\Controllers\\HelloWorldController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HelloWorldController.cs",
+              "ToolTip": "C:\\Users\\leviw\\Documents\\school\\dotnet\\MvcMovie\\Controllers\\HelloWorldController.cs",
+              "RelativeToolTip": "Controllers\\HelloWorldController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T04:21:57.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\leviw\\Documents\\school\\dotnet\\MvcMovie\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\leviw\\Documents\\school\\dotnet\\MvcMovie\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T04:25:16.398Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
